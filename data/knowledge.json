@@ -1,0 +1,103 @@
+{
+  "about": [
+    {
+      "id": "about-1",
+      "text": "Sailappan is an AI & ML Engineer passionate about creating intelligent solutions for real-world challenges. He specializes in computer vision, natural language processing, and building end-to-end machine learning pipelines.",
+      "category": "about"
+    },
+    {
+      "id": "about-2", 
+      "text": "With a strong foundation in both theoretical ML concepts and practical implementation, Sailappan has worked on various AI projects from computer vision applications to natural language processing systems.",
+      "category": "about"
+    },
+    {
+      "id": "about-3",
+      "text": "Sailappan is particularly interested in making AI more accessible and practical for everyday use cases. He loves finding innovative ways to solve complex problems using machine learning and automation.",
+      "category": "about"
+    }
+  ],
+  "skills": [
+    {
+      "id": "skills-1",
+      "text": "Programming Languages: Python, C++",
+      "category": "skills"
+    },
+    {
+      "id": "skills-2", 
+      "text": "Machine Learning: TensorFlow, PyTorch, Scikit-learn, OpenCV, Computer Vision, NLP, Deep Learning",
+      "category": "skills"
+    },
+    {
+      "id": "skills-3",
+      "text": "HTML/CSS",
+      "category": "skills"
+    },
+    {
+      "id": "skills-4",
+      "text": "Automation & Tools: n8n, Docker, Git, AWS, Google Cloud Platform",
+      "category": "skills"
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "text": "Typing Tutor AI: A computer vision-based application that analyzes typing patterns using OpenCV and machine learning. The system can detect typing speed, accuracy, and provide personalized feedback to improve typing skills.",
+      "category": "projects"
+    },
+    {
+      "id": "project-2",
+      "text": "n8n Automation Workflows: Built several n8n workflows that help businesses streamline their processes. Created data processing pipelines and automated reporting systems to improve workflow efficiency.",
+      "category": "projects"
+    },
+    {
+      "id": "project-3",
+      "text": "Face Recognition Attendance System: Developed a system that uses facial recognition to automate attendance marking. It detects users in front of a CCTV camera, logs timestamps, sends confirmation messages, and stores data in an app for easy access.",
+      "category": "projects"
+    },
+    {
+      "id": "project-4",
+      "text": "GUIDY: An AI-driven tourism solution integrating augmented reality (AR) and sustainability. The system helps modernize tourism by providing intelligent guidance while supporting local businesses.",
+      "category": "projects"
+    }
+  ],
+  "experience": [
+    {
+      "id": "internship-1",
+      "text": "Internship at Tamizhan Skills (2024): Worked on AI/ML projects, gained hands-on experience with real-world applications, and contributed to the development of intelligent solutions.",
+      "category": "experience"
+    },
+    {
+      "id": "experience-1",
+      "text": "AI & ML Engineer: Specialized in computer vision, NLP, and building end-to-end ML pipelines. Experience with deploying ML models in production environments.",
+      "category": "experience"
+    }
+  ],
+  "contact": [
+    {
+      "id": "contact-1",
+      "text": "LinkedIn: https://www.linkedin.com/in/sailappan-s - Best platform for professional networking and discussing AI/ML opportunities",
+      "category": "contact"
+    },
+    {
+      "id": "contact-2",
+      "text": "GitHub: https://github.com/sailappansivan - View code repositories, projects, and contributions",
+      "category": "contact"
+    },
+    {
+      "id": "contact-3",
+      "text": "Resume: Available for download from the hero section of this portfolio website",
+      "category": "contact"
+    },
+    {
+      "id": "contact-4",
+      "text": "LeetCode: https://leetcode.com/u/SAILAPPAN/ - Solve coding challenges and view algorithmic problem-solving progress",
+      "category": "contact"
+    },
+    {
+      "id": "contact-5",
+      "text": "sailappan935@gmail.com",
+      "category": "email"
+    }
+  ]
+}
+
