@@ -151,7 +151,6 @@ const AboutSection = () => {
                       <p className="text-gray-400 text-sm">Percentage: 85% • Science Stream with Computer Science</p>
                     </div>
                   </div>
-
                 </div>
               </div>
             </motion.div>
